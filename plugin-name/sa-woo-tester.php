@@ -1,28 +1,28 @@
 <?php
 /**
- * The WordPress Plugin Boilerplate.
+ * Woocommerce Tester Plugin
  *
- * A foundation off of which to build well-documented WordPress plugins that
- * also follow WordPress Coding Standards and PHP best practices.
+ * Woocommerce Tester off of which to test woocommerce behavior while developing woocommerce extension plugin
+ * This also helps you build an extension faster the right way.
  *
  * @package   sa-woo-tester
- * @author    Your Name <email@example.com>
+ * @author    Dr.DeX
  * @license   GPL-2.0+
- * @link      http://example.com
- * @copyright 2014 Your Name or Company Name
+ * @link      http://www.skyaperture.com/plugin/woo-tester
+ * @copyright 2014 SkyAperture
  *
  * @wordpress-plugin
  * Plugin Name:       SA-Woo-Tester
- * Plugin URI:        @TODO
- * Description:       @TODO
- * Version:           1.0.0
- * Author:            @TODO
- * Author URI:        @TODO
+ * Plugin URI:        http://www.skyaperture.com/plugin/woo-tester
+ * Description:       Woocommerce Tester off of which to test woocommerce behavior while developing woocommerce extension plugin.
+ * Version:           0.1.0
+ * Author:            Dr.DeX
+ * Author URI:        http://www.wordpressure.co.kr
  * Text Domain:       sa-woo-tester-locale
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/<owner>/<repo>
+ * Domain Path:       /lang
+ * GitHub Plugin URI: https://github.com/kkdg/sa-woo-tester
  */
 
 // If this file is called directly, abort.
